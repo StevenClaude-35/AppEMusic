@@ -1,0 +1,17 @@
+C:\Users\33623\source\repos\SolutionProjetMusic\MysMusic.Core\bin\Debug\netstandard2.0\MysMusic.Core.deps.json
+C:\Users\33623\source\repos\SolutionProjetMusic\MysMusic.Core\bin\Debug\netstandard2.0\MysMusic.Core.dll
+C:\Users\33623\source\repos\SolutionProjetMusic\MysMusic.Core\obj\Debug\netstandard2.0\MysMusic.Core.csprojAssemblyReference.cache
+C:\Users\33623\source\repos\SolutionProjetMusic\MysMusic.Core\obj\Debug\netstandard2.0\MysMusic.Core.AssemblyInfoInputs.cache
+C:\Users\33623\source\repos\SolutionProjetMusic\MysMusic.Core\obj\Debug\netstandard2.0\MysMusic.Core.AssemblyInfo.cs
+C:\Users\33623\source\repos\SolutionProjetMusic\MysMusic.Core\bin\Debug\netstandard2.0\MysMusic.Core.pdb
+C:\Users\33623\source\repos\SolutionProjetMusic\MysMusic.Core\obj\Debug\netstandard2.0\MysMusic.Core.dll
+C:\Users\33623\source\repos\SolutionProjetMusic\MysMusic.Core\obj\Debug\netstandard2.0\MysMusic.Core.pdb
+D:\ProjectEMusique\SolutionProjetMusic\MysMusic.Core\bin\Debug\netstandard2.0\MysMusic.Core.deps.json
+D:\ProjectEMusique\SolutionProjetMusic\MysMusic.Core\bin\Debug\netstandard2.0\MysMusic.Core.dll
+D:\ProjectEMusique\SolutionProjetMusic\MysMusic.Core\bin\Debug\netstandard2.0\MysMusic.Core.pdb
+D:\ProjectEMusique\SolutionProjetMusic\MysMusic.Core\obj\Debug\netstandard2.0\MysMusic.Core.csproj.AssemblyReference.cache
+D:\ProjectEMusique\SolutionProjetMusic\MysMusic.Core\obj\Debug\netstandard2.0\MysMusic.Core.AssemblyInfoInputs.cache
+D:\ProjectEMusique\SolutionProjetMusic\MysMusic.Core\obj\Debug\netstandard2.0\MysMusic.Core.AssemblyInfo.cs
+D:\ProjectEMusique\SolutionProjetMusic\MysMusic.Core\obj\Debug\netstandard2.0\MysMusic.Core.csproj.CoreCompileInputs.cache
+D:\ProjectEMusique\SolutionProjetMusic\MysMusic.Core\obj\Debug\netstandard2.0\MysMusic.Core.dll
+D:\ProjectEMusique\SolutionProjetMusic\MysMusic.Core\obj\Debug\netstandard2.0\MysMusic.Core.pdb
