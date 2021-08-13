@@ -70,6 +70,8 @@ namespace MyMusic.API.Controllers
         [Authorize]
         public async Task<ActionResult<MusicResourse>> CreateMusic(SaveMusicResourse saveMusicResource)
         {
+            //Get Current user
+            var userId = User.Identity.Name;
             //Validation des données d'entrée
             var validation = new SaveMusicResourceValidator();
             var validationResult = await validation.ValidateAsync(saveMusicResource);
